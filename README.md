@@ -6,6 +6,6 @@
 ④ 支持大部分拥有 sitemap 网站的文章获取
 ⑤ 拥有友链屏蔽、关键词屏蔽、等自定义 yaml 的配置项        
 ```
-预览链接：https://zfe.space/friendcircle/
+预览链接：https://zfe.space/friendcircle/ 
 
 教程请查阅：https://zfe.space/post/friend-link-circle.html
