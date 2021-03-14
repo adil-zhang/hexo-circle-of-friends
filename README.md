@@ -7,5 +7,5 @@
 ⑤ 拥有友链屏蔽、关键词屏蔽、等自定义 yaml 的配置项        
 ```
 预览链接：https://zfe.space/friendcircle/ 
-
+   
 教程请查阅：https://zfe.space/post/friend-link-circle.html
